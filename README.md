@@ -35,4 +35,5 @@ Initialize npm
 ```
 npm init
 ```
-![forever list](https://dsfee43herbpw.cloudfront.net/uploads/a7ee45ade246ecf8a0571983.png)
+This will start the npm initialization dialouge which should look like this:
+![npm init](https://bjm-github-pics.s3-us-west-2.amazonaws.com/npm-init.png)
