@@ -3,16 +3,9 @@
 ## Table of Contents
 - [The Setup](#the-setup)
   * [Install Packages](#install-packages)
-  * [Manually Edit package.json](#manuall-edit-package.json)
-- [Website Management](#website)
-- [Mongo](#mongo)
-  * [Mongo Servers List](#servers)
-  * [Accessing Servers](#accessing-servers)
-  * [Mongo Logs](#mongo-logs)
-- [REDIS](#redis)
-- [AWS Management](#AWS)
-  * [Generate P12 File](#p12-files)
-- [List of Servers](#list-of-servers)
+  * [Manually Edit package.json](#manually-edit-package.json)
+  * [Add a .gitignore file](#add-a-.gitignore-file)
+- [Open the Project in VSCode](#open-the-project-in-vscode)
 <!-- toc -->
 
 ## The Setup
@@ -98,3 +91,5 @@ git add -A
 
 Now checking the Git status will yield results like this:
 ![git status good](https://bjm-github-pics.s3-us-west-2.amazonaws.com/git-status-good.png)
+
+## Open the Project in VSCode
