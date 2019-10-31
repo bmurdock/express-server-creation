@@ -2,12 +2,8 @@
 
 ## Table of Contents
 - [The Setup](#the-setup)
-  * [Common Tasks](#common-tasks)
-    + [Watch Log Files](#watch-log-files)
-    + [Kill Existing Processes](#kill-existing-processes)
-    + [Restart Server](#restart-server)
-    + [Install New Build](#install-new-build)
-  * [Services](#services)
+  * [Install Packages](#install-packages)
+  * [Manually Edit package.json](#manuall-edit-package.json)
 - [Website Management](#website)
 - [Mongo](#mongo)
   * [Mongo Servers List](#servers)
