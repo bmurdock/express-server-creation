@@ -20,3 +20,7 @@
 <!-- toc -->
 
 ## The Setup
+Create a new folder for your project
+```
+mkdir project-name
+```
