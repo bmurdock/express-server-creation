@@ -93,3 +93,5 @@ Now checking the Git status will yield results like this:
 ![git status good](https://bjm-github-pics.s3-us-west-2.amazonaws.com/git-status-good.png)
 
 ## Open the Project in VSCode
+Now we can open the project in VSCode (or your preferred IDE)
+
