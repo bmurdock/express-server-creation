@@ -94,3 +94,11 @@ The .gitignore file should look like this:
 # Individual files ignored
 /ignoredReadme.md
 ```
+
+Now you can add all uncommitted files to the project without worrying about getting unwanted files:
+```
+git add -A
+```
+
+Now checking the Git status will yield results like this:
+![git status good](https://bjm-github-pics.s3-us-west-2.amazonaws.com/git-status-good.png)
