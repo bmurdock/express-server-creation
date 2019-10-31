@@ -20,7 +20,19 @@
 <!-- toc -->
 
 ## The Setup
-Create a new folder for your project
+We want to create the files and folders needed for the project.
+
+Create a new folder for your project and then move into that folder
 ```
 mkdir project-name
+cd project-name
 ```
+Initialize Git
+```
+git init
+```
+Initialize npm
+```
+npm init
+```
+![forever list](https://dsfee43herbpw.cloudfront.net/uploads/a7ee45ade246ecf8a0571983.png)
