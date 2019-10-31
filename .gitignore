@@ -1,3 +1,6 @@
-/ignoredReadme.md
+# Folders ignored
 /node_modules/
 /.idea/
+
+# Individual files ignored
+/ignoredReadme.md
