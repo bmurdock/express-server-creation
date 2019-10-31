@@ -36,4 +36,35 @@ Initialize npm
 npm init
 ```
 This will start the npm initialization dialouge which should look like this:
+
 ![npm init](https://bjm-github-pics.s3-us-west-2.amazonaws.com/npm-init.png)
+
+### Install Packages
+The npm init command will create a package.json file. Now you can install packages from npm.
+For this basic server, we are only going to use the express package.
+Install express using npm:
+```
+npm install express --save
+```
+
+### Manually Edit package.json
+There are many settings in the package.json file.
+We want to add a start command to package.json so that we can start our project using:
+```
+npm start
+```
+
+The package.json file currently has a scripts block that looks like this:
+```
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+```
+
+We want to edit the package.json so that the scripts block has a start command, like this:
+```
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+```
