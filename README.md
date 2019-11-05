@@ -36,6 +36,11 @@ Install express using npm:
 npm install express --save
 ```
 
+If you have multiple packages that you want to use, you can install them at the same time like this:
+```
+npm install express mongoose --save
+```
+
 ### Manually Edit package.json
 There are many settings in the package.json file.
 We want to add a start command to package.json so that we can start our project using:
